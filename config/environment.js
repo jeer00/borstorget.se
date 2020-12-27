@@ -29,7 +29,7 @@ module.exports = function(environment) {
       coverImage: '/images/blog-cover.jpg.jpg',
 
       navigation: [{
-        label: 'Home',
+        label: 'Hem',
         route: 'index'
       }, {
         label: 'Om Börstorget',
