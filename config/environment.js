@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'empress-blog-casper',
+    modulePrefix: 'Börstorget',
     environment,
     rootURL: '/',
     locationType: 'auto',
@@ -29,7 +29,7 @@ module.exports = function(environment) {
       coverImage: '/images/blog-cover.jpg.jpg',
 
       navigation: [{
-        label: 'Home',
+        label: 'Start',
         route: 'index'
       }, {
         label: 'Om Börstorget',
