@@ -24,17 +24,17 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'empress-blog',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'Börstorget',
+      description: '@dndjeppe',
+      coverImage: '/images/blog-cover.jpg.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Om Börstorget',
         route: 'page',
-        id: 'chris-manson'
+        id: 'jeppe'
       }]
     },
 
